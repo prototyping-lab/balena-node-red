@@ -19,3 +19,4 @@ services:
       - "/dev/i2c-1:/dev/i2c-1"
     ports:
       - 80:80
+      - 1880:1880
